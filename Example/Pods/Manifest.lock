@@ -1,0 +1,16 @@
+PODS:
+  - LSGAVPlayerManager (0.1.0)
+
+DEPENDENCIES:
+  - LSGAVPlayerManager (from `../`)
+
+EXTERNAL SOURCES:
+  LSGAVPlayerManager:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  LSGAVPlayerManager: 11062005582fd9eb25e798e35d6e763864faee36
+
+PODFILE CHECKSUM: 9c81a30d97ca3f5f5271b62324d732a9b46ac733
+
+COCOAPODS: 1.16.2

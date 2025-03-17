@@ -1,0 +1,6 @@
+framework module LSGAVPlayerManager {
+  umbrella header "LSGAVPlayerManager-umbrella.h"
+
+  export *
+  module * { export * }
+}
